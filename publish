@@ -1,0 +1,2 @@
+#!/bin/sh
+rsync -avHSz src/ tlevine_thomaslevine@ssh.phx.nearlyfreespeech.net:
